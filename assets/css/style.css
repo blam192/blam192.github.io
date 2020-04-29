@@ -105,11 +105,6 @@ ul li{
   transform: translate(-50%, -50%);
 }
 
-.hidden {
-  /* this hides my text */
-  display: none;
-}
-
 /* for parents page */
 .d-flex{
   /* this makes it so my text and photo is in the same line */
@@ -150,6 +145,12 @@ ul li{
 
 
 /* for food page */
+
+.hidden {
+  /* this hides my text */
+  display: none;
+}
+
 .section3_title{
   /* this centers my font */
   text-align: center;
