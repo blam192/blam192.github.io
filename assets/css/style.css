@@ -77,13 +77,13 @@ ul li{
   display:block;
   margin-left: auto;
   margin-right: auto;
-  width:22vw;
+  width:20vw;
   padding-left: 37vw;
 }
 
 #me_info{
   /* this makes it so my text is in the center of the page og padding-top:5vw*/
-  padding-top: 4vw;
+  padding-top: 3vw;
   font-size: 1.75vw;
 }
 
@@ -142,7 +142,7 @@ ul li{
 
 .par{
   /* this affects how my picture is shown og width:85, added margin-top */
-  width:34vw;
+  width:32vw;
   height: auto;
   margin-top: 3vw;
   margin-right: 5vw;
