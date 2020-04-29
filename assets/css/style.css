@@ -77,13 +77,13 @@ ul li{
   display:block;
   margin-left: auto;
   margin-right: auto;
-  width:18vw;
-  padding-left: 37vw;
+  width:22vw;
+  padding-left: 38vw;
 }
 
 #me_info{
   /* this makes it so my text is in the center of the page og padding-top:5vw*/
-  padding-top: 3vw;
+  padding-top: 2vw;
   font-size: 1.75vw;
 }
 
@@ -118,7 +118,7 @@ ul li{
 
 .box{
   /* this makes it so my text is kinda centered between the picture */
-  margin-top: 11vw;
+  margin-top: 9vw;
 }
 
 .c2 > .section2_title{
