@@ -221,6 +221,7 @@ p{
   top:40%;
   justify-content: center;
   text-align: center;
+  align-items: flex-start;
 }
 
   /* this controls the size of my photos */
